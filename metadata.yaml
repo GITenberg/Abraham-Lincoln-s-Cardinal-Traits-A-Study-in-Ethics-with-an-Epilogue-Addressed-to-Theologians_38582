@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '39547'
     url: http://www.gutenberg.org/2009/agents/39547
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38582#Abraham-Lincoln-s-Cardinal-Traits-A-Study-in-Ethics-with-an-Epilogue-Addressed-to-Theologians
 gutenberg_issued: '2012-01-15'
 gutenberg_type: Text
 identifiers:
